@@ -1,6 +1,6 @@
 # Lake (the game) - Speed Mod
 
-> See what it does: https://www.youtube.com/watch?v=xQD7RP2kzxc
+> See what it does: https://youtu.be/xQD7RP2kzxc
 
 ## Prerequisite:
 - BepInEx - v5.4.19+
